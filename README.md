@@ -1,35 +1,77 @@
-🚀 Problem-Solving
+# 🧠 Problem-Solving
 
-Welcome to my Problem-Solving repository!
+> A daily collection of competitive programming solutions — crafted with consistency, curiosity, and a lot of `cin` and `cout`.
 
-This repository contains my daily coding practice solutions focused on improving Data Structures and Algorithms (DSA) skills. I solve problems consistently to strengthen logical thinking, optimize complexity, and prepare for technical interviews at top tech companies.
+---
 
-🎯 Goals
+## 👨‍💻 About This Repository
 
-Solve problems daily
+This repository contains my day-to-day problem-solving code, primarily written in **C++**. I push solutions regularly as part of my commitment to continuous practice and improvement in competitive programming and algorithmic thinking.
 
-Master core Data Structures & Algorithms
+- 🗓️ **Daily** problem solutions
+- 💻 **Primary Language:** C++
+- 🏆 **1200+ Problems Solved** across competitive platforms
 
-Improve time and space complexity optimization
+---
 
-Prepare for coding interviews (FAANG-level)
+## 📂 Repository Structure
 
-Strengthen competitive programming skills
+```
+Problem-Solving/
+├── Solutions
+```
 
-📊 Progress
+---
 
-🧠 1100+ problems solved across platforms
+## 🌐 My Profiles
 
-🔥 Active on competitive programming platforms
+### 🔵 Codeforces
+Competitive programming contests — Div. 1, Div. 2, Div. 3, and more.
 
-📈 Continuously improving problem-solving speed & accuracy
+[![Codeforces](https://img.shields.io/badge/Codeforces-Visit%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rakib73520/)
 
-🛠 Languages Used
+---
 
-C++
+### 🟡 LeetCode
+Data structures, algorithms, and interview-style problem solving.
 
-Python
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rakib73520/)
 
-Java
+---
 
-(Most solutions are written in C++)
+### 🟢 NeetCode.io
+Structured problem sets and video explanations for mastering DSA.
+
+[![NeetCode](https://img.shields.io/badge/NeetCode.io-Visit%20Profile-00C853?style=for-the-badge&logo=google&logoColor=white)](https://neetcode.io/)
+
+---
+
+## 📊 Stats at a Glance
+
+| Platform     | Problems Solved |
+|--------------|-----------------|
+| Codeforces   | ✅ Active        |
+| LeetCode     | ✅ Active        |
+| NeetCode.io  | ✅ Active        |
+| **Total**    | **1200+**        |
+
+---
+
+## 🛠️ Languages & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Goals
+
+- [ ] Solve 2000+ problems
+- [ ] Reach Specialist on Codeforces
+- [ ] Complete NeetCode 150
+- [ ] Maintain daily push streak
+
+---
+
+> *"Every problem solved is a step closer to mastery."*
