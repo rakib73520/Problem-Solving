@@ -18,6 +18,7 @@ This repository contains my day-to-day problem-solving code, primarily written i
 
 ```
 Problem-Solving/
+<<<<<<< HEAD
 ├── Codeforces/
 │   ├── Div2/
 │   └── Div3/
@@ -26,6 +27,9 @@ Problem-Solving/
 │   ├── Medium/
 │   └── Hard/
 └── Others/
+=======
+├── Solutions
+>>>>>>> 3257a4f3e963c2a5fc449b6b3ed4f6ce1789b6c0
 ```
 
 ---
@@ -35,14 +39,22 @@ Problem-Solving/
 ### 🔵 Codeforces
 Competitive programming contests — Div. 1, Div. 2, Div. 3, and more.
 
+<<<<<<< HEAD
 [![Codeforces](https://img.shields.io/badge/Codeforces-Visit%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+=======
+[![Codeforces](https://img.shields.io/badge/Codeforces-Visit%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rakib73520/)
+>>>>>>> 3257a4f3e963c2a5fc449b6b3ed4f6ce1789b6c0
 
 ---
 
 ### 🟡 LeetCode
 Data structures, algorithms, and interview-style problem solving.
 
+<<<<<<< HEAD
 [![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+=======
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rakib73520/)
+>>>>>>> 3257a4f3e963c2a5fc449b6b3ed4f6ce1789b6c0
 
 ---
 
@@ -82,4 +94,7 @@ Structured problem sets and video explanations for mastering DSA.
 ---
 
 > *"Every problem solved is a step closer to mastery."*
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3257a4f3e963c2a5fc449b6b3ed4f6ce1789b6c0
